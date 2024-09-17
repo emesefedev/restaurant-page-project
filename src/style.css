@@ -1,0 +1,13 @@
+:root {
+    --black-color: rgb(42, 43, 42);
+    --dark-brown-color: rgb(178, 150, 125);
+    --dark-pink-color: rgb(230, 190, 174);
+    --almond-color: rgb(231, 216, 201);
+    --light-brown-color: rgb(238, 228, 225);
+    --white-color: rgb(236, 248, 248);
+}
+
+body {
+    background-color: var(--dark-brown-color);
+    color: var(--white-color);
+}
