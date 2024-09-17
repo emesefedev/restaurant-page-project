@@ -11,3 +11,7 @@
 🎯 [Assignment](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
 🍽️ [Result]() In progress...
+
+## Assets
+
+[Image Italian Food](https://www.freepik.es/foto-gratis/composicion-flat-lay-pasta_4676086.htm#fromView=search&page=1&position=20&uuid=ac46faad-83ac-4aff-8fc9-acb6b2372bba) Designed by Freepik
