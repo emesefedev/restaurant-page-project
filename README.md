@@ -10,7 +10,7 @@
 
 🎯 [Assignment](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-🍽️ [Result]() In progress...
+🍽️ [Result](https://emesefedev.github.io/restaurant-page-project/)
 
 ## Assets
 
