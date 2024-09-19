@@ -27,7 +27,7 @@ const homeButton = () => document.getElementById("home-button")
 const menutButton = () => document.getElementById("menu-button")
 const aboutButton = () => document.getElementById("about-button")
 
-function clearContent() {
+function clearContent() {
     while (content().childElementCount > 2) { 
         content().lastChild.remove();
     }
